@@ -15,4 +15,4 @@ Características principales:
 
 **Nota**: Es importante tener en cuenta que este proyecto es un clon de la interfaz de usuario y la funcionalidad básica de TikTok, y no tiene conexión directa con los servicios o la infraestructura de TikTok.
 
->>>>>>> 95698f505b211f43536699fe2d3976c4ed9c5318
+
